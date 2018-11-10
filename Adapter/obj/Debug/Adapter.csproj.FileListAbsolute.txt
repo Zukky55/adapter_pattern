@@ -1,0 +1,7 @@
+D:\Users\Lungueages\DesignPattern\Adapter\Adapter\bin\Debug\Adapter.exe.config
+D:\Users\Lungueages\DesignPattern\Adapter\Adapter\bin\Debug\Adapter.exe
+D:\Users\Lungueages\DesignPattern\Adapter\Adapter\bin\Debug\Adapter.pdb
+D:\Users\Lungueages\DesignPattern\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+D:\Users\Lungueages\DesignPattern\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\Users\Lungueages\DesignPattern\Adapter\Adapter\obj\Debug\Adapter.exe
+D:\Users\Lungueages\DesignPattern\Adapter\Adapter\obj\Debug\Adapter.pdb
